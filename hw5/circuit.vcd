@@ -1,0 +1,70 @@
+$date
+	Sun Oct  6 18:58:15 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module testbench $end
+$var wire 1 ! out $end
+$var reg 1 " s $end
+$var reg 1 # t $end
+$var reg 1 $ u $end
+$var reg 1 % v $end
+$scope module uut $end
+$var wire 1 " a $end
+$var wire 1 # b $end
+$var wire 1 $ c $end
+$var wire 1 % d $end
+$var wire 1 ! out $end
+$var reg 1 & e $end
+$var reg 1 ' f $end
+$var reg 1 ( g $end
+$var reg 1 ) notA $end
+$var reg 1 * notC $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+x*
+x)
+x(
+x'
+x&
+1%
+1$
+1#
+0"
+x!
+$end
+#1
+0*
+1)
+#2
+1&
+#3
+0'
+#4
+1!
+1(
+#10
+0$
+#11
+1*
+#12
+0&
+#13
+1'
+#14
+0!
+0(
+#15
+1!
+1(
+#60
